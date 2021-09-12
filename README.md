@@ -1,6 +1,4 @@
-### Hi there! Allow me to introduce myself 👋
-
-## My name is Krystal, and:
+### Hi there! 👋  I'm Krystal, and
 
 - 🕵️‍♀️ I'm looking for my first developer role
 - 👩‍💻 I built my projects with React, SASS, Bootstrap, NodeJS, Express, MongoDB, MySql, AWS, Javascript, HTML5 and CSS3
