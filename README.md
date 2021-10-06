@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: She/Her
+
+[![Krystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=basiltime)](https://github.com/basiltime/github-readme-stats)
