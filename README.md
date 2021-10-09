@@ -1,6 +1,6 @@
 ### Hi there! 👋  I'm Krystal, and
 
-- 🕵️‍♀️ I'm looking for my first developer role
+- 🕵️‍♀️ I'm looking for a frontend or fullstack web developer role
 - 👩‍💻 I built my projects with React, SASS, Bootstrap, NodeJS, Express, MongoDB, MySql, AWS, Javascript, HTML5 and CSS3
 - 🔭 I’m currently working on building my portfolio website 
 - 🌱 I’m currently learning React, PHP, and deepening my Javascript skills
